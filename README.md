@@ -33,7 +33,6 @@ The dataset used in this project contains information about houses in the USA, i
 - Feature encoding for categorical data.
 - Data normalization and standardization.
 - Model training using Random Forest Regressor.
-- Hyperparameter tuning using GridSearchCV.
 - Evaluation metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
 
 ## Installation
