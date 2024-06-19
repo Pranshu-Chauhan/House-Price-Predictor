@@ -1,4 +1,4 @@
-# House Price Regressor
+# House Price Predictor
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -17,7 +17,7 @@
 - [Contact](#contact)
 
 ## Overview
-HousePricePredictor is a machine learning project aimed at predicting house prices based on various features such as house size, number of bedrooms, number of bathrooms, and location. This project utilizes data preprocessing, feature engineering, and a Random Forest Regressor model to achieve accurate predictions.
+House Price Predictor is a machine learning project aimed at predicting house prices based on various features such as house size, number of bedrooms, number of bathrooms, and location. This project utilizes data preprocessing, feature engineering, and a Random Forest Regressor model to achieve accurate predictions.
 
 ## Dataset
 The dataset used in this project contains information about houses in the USA, including:
@@ -45,7 +45,7 @@ To run this project locally, please follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd House Price Regressor
+   cd House Price Predictor
    ```
 
 3. Create a virtual environment and activate it:
